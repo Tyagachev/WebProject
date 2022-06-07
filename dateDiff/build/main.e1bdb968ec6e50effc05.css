@@ -1,0 +1,25 @@
+/*!**********************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./style/main.scss ***!
+  \**********************************************************************************************************/
+.thide {
+  margin: 0 10px 10px 0;
+}
+
+.show {
+  display: none;
+}
+
+.btnstop {
+  display: none;
+}
+
+.input {
+  margin: 0 10px 0 0;
+}
+
+.timer {
+  margin: 10px 0 0 0;
+  border: 1px solid black;
+  height: 20px;
+  width: 50px;
+}
